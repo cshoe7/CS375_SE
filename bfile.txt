@@ -1,3 +1,4 @@
 
 hello
 making changes
+conflict
